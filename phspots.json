@@ -63,6 +63,15 @@
     "lng": 120.71811019999996
   },
   {
+    "id": 542,
+    "name": "Mayon Volcano",
+    "imageUrl": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/01/13/Pictures/_6658ef9c-f878-11e7-95e6-04e0a17510b6.jpg",
+    "price": 523,
+    "priceCurrency": "km",
+    "lat": 13.2251714,
+    "lng": 123.7126518
+  },
+  {
     "id": 210,
     "name": "The Ruins",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/The_Ruins_in_Talisay%2C_Negros_Occidental.jpg",
@@ -94,6 +103,15 @@
     "name": "Magellan's Cross",
     "imageUrl": "http://philippineslifestyle.com/wp-content/uploads/Magellans-Cross.jpg",
     "price": 801,
+    "priceCurrency": "km",
+    "lat": 10.2935675,
+    "lng": 123.9019485
+  },
+   {
+    "id": 210,
+    "name": "Magellan's Cross",
+    "imageUrl": "http://philippineslifestyle.com/wp-content/uploads/Magellans-Cross.jpg",
+    "price": 523,
     "priceCurrency": "km",
     "lat": 10.2935675,
     "lng": 123.9019485
