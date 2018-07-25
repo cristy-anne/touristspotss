@@ -1,0 +1,111 @@
+[
+ {
+    "id": 145,
+    "name": "Tangadan Falls",
+    "imageUrl": "https://cdn.looloo.com/photos/reviews/252710/large_square/1448466883.jpg?1452570057",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.643578,
+    "lng": 120.448791
+  },
+  {
+    "id": 148,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2014/08/LunaWatchtower02.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.856808,
+    "lng": 120.372862
+  },
+   {
+    "id": 565,
+    "name": "Pindangan Ruins",
+    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/11/pindangan-ruins.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.58814,
+    "lng": 120.314598
+  },
+  {
+    "id": 201,
+    "name": "Ma-Cho Temple",
+    "imageUrl": "http://machotemple.org/wp-content//gallery//exterior/frontview.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.621205,
+    "lng": 120.317499
+  },
+   {
+    "id": 210,
+    "name": "Balay Anito Falls",
+    "imageUrl": "http://tupanggala.com/wp-content/uploads/2015/03/Balay-AnitoFalls11.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.737914,
+    "lng": 120.454576
+  },
+  {
+    "id": 211,
+    "name": "USAFFE-NL Military Shrine and Park",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWmpe1SSEez2hrkQiygxHJXgaflSVZTNmYgUBG=s1600-w400",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.820884,
+    "lng": 120.33558
+  },
+    {
+    "id": 122,
+    "name": "Thunderbird Resort",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/01/d1/71/46/all-shades-of-blue-in.jpg",
+    "price": 200,
+    "priceCurrency": "PHP",
+    "lat": 16.609068,
+    "lng": 120.286496
+  },
+  {
+    "id": 201,
+    "name": "Halo-Halo de Iloko",
+    "imageUrl": "https://theblissfulraine.files.wordpress.com/2014/10/halo-halo-de-iloko.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.617253,
+    "lng": 120.319793
+  },
+  {
+    "id": 210,
+    "name": "Immuki Island",
+    "imageUrl": "https://roamulofied.files.wordpress.com/2018/01/immuki14.jpg?w=960",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.802881,
+    "lng": 120.325512
+  },
+  {
+    "id": 211,
+    "name": "Kultura Splash Wave",
+    "imageUrl": "http://2.bp.blogspot.com/-aZ8CkesrFWA/TykOp6_mFSI/AAAAAAAAAGM/4X152W_9Vi0/s1600/kul.jpg",
+    "price": 200,
+    "priceCurrency": "PHP",
+    "lat": 16.318883 ,
+    "lng": 120.468736
+  },
+ {
+    "id": 561,
+    "name": "Pugo Adventure",
+    "imageUrl": "https://erraticlakwatsero.files.wordpress.com/2014/11/wpid-img_20141116_102408.jpg",
+    "price": 250,
+    "priceCurrency": "PHP",
+    "lat": 16.336675,
+    "lng": 120.478815
+  },
+   {
+    "id": 200,
+    "name": "Mangaoang Residence",
+    "imageUrl": "https://github.com/cristy-anne/spotslu3/blob/master/add.JPG?raw=true",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.613973,
+    "lng": 120.313972
+  }
+]
+
