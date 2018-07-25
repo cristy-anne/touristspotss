@@ -1,110 +1,101 @@
 [
  {
     "id": 145,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://cdn.looloo.com/photos/reviews/252710/large_square/1448466883.jpg?1452570057",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.643578,
-    "lng": 120.448791
+    "name": "Racuh a Payaman",
+    "imageUrl": "https://pobrenglayas.files.wordpress.com/2014/08/img_4419.jpg",
+    "price": 458,
+    "priceCurrency": "km",
+    "lat": 16.6325096,
+    "lng": 120.3177918
   },
   {
     "id": 148,
-    "name": "Baluarte Watch Tower",
-    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2014/08/LunaWatchtower02.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.856808,
-    "lng": 120.372862
+    "name": "Calle Crisologo",
+    "imageUrl": "https://www.vigattintourism.com/assets/tourist_spots_photos/optimize/1345267444ik07fGX5.jpg",
+    "price": 142,
+    "priceCurrency": "km",
+    "lat": 17.5698929,
+    "lng": 120.38832360000004
   },
    {
     "id": 565,
-    "name": "Pindangan Ruins",
-    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/11/pindangan-ruins.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.58814,
-    "lng": 120.314598
-  },
-  {
-    "id": 201,
-    "name": "Ma-Cho Temple",
-    "imageUrl": "http://machotemple.org/wp-content//gallery//exterior/frontview.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.621205,
-    "lng": 120.317499
+    "name": "Las Casas Filipinas de Acuzar",
+    "imageUrl": "https://i0.wp.com/www.projectlupad.com/wp-content/uploads/2018/02/La-Casas-Filipinas-de-Acuzar-Bataan-Aerial-View-Copyright-to-Project-LUPAD-12.jpg?fit=4000%2C2342&ssl=1",
+    "price": 272,
+    "priceCurrency": "km",
+    "lat": 14.6026318,
+    "lng": 120.38526430000002
   },
    {
     "id": 210,
-    "name": "Balay Anito Falls",
-    "imageUrl": "http://tupanggala.com/wp-content/uploads/2015/03/Balay-AnitoFalls11.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.737914,
-    "lng": 120.454576
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2012/06/banaue-terraces.jpg",
+    "price": 213,
+    "priceCurrency": "km",
+    "lat": 13.254832,
+    "lng": 123.68611239999996
   },
   {
     "id": 211,
-    "name": "USAFFE-NL Military Shrine and Park",
-    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWmpe1SSEez2hrkQiygxHJXgaflSVZTNmYgUBG=s1600-w400",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.820884,
-    "lng": 120.33558
+    "name": "Luneta Park",
+    "imageUrl": "https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F8B8017CF6C940E7BE742DD09BE3FEDA/rizal-park_d5eb7d95eaad426fb486fce5243c5642_F8B8017CF6C940E7BE742DD09BE3FEDA.jpg",
+    "price": 266,
+    "priceCurrency": "km",
+    "lat": 14.5824153,
+    "lng": 120.97816769999997
   },
     {
     "id": 122,
-    "name": "Thunderbird Resort",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/01/d1/71/46/all-shades-of-blue-in.jpg",
-    "price": 200,
-    "priceCurrency": "PHP",
-    "lat": 16.609068,
-    "lng": 120.286496
+    "name": "Hundred Islands",
+    "imageUrl": "http://pinoyadventurer.com/wp-content/uploads/2012/07/100islands-0076.jpg",
+    "price": 51,
+    "priceCurrency": "km",
+    "lat": 16.2040011,
+    "lng": 120.04086870000003
   },
   {
     "id": 201,
-    "name": "Halo-Halo de Iloko",
-    "imageUrl": "https://theblissfulraine.files.wordpress.com/2014/10/halo-halo-de-iloko.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.617253,
-    "lng": 120.319793
+    "name": "Bangui Windmills",
+    "imageUrl": "https://i.ytimg.com/vi/fZPzJCRwfnY/hqdefault.jpg",
+    "price": 221,
+    "priceCurrency": "km",
+    "lat": 18.52857059999999,
+    "lng": 120.71811019999996
   },
   {
     "id": 210,
-    "name": "Immuki Island",
-    "imageUrl": "https://roamulofied.files.wordpress.com/2018/01/immuki14.jpg?w=960",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.802881,
-    "lng": 120.325512
+    "name": "The Ruins",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/The_Ruins_in_Talisay%2C_Negros_Occidental.jpg",
+    "price": 715,
+    "priceCurrency": "km",
+    "lat": 10.7092769,
+    "lng": 122.98256570000001
   },
   {
-    "id": 211,
-    "name": "Kultura Splash Wave",
-    "imageUrl": "http://2.bp.blogspot.com/-aZ8CkesrFWA/TykOp6_mFSI/AAAAAAAAAGM/4X152W_9Vi0/s1600/kul.jpg",
-    "price": 200,
-    "priceCurrency": "PHP",
-    "lat": 16.318883 ,
-    "lng": 120.468736
+     "id": 201,
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://www.travelinboots.com/wp-content/uploads/2016/12/Discover-El-Nido-FB-Shared-Image.jpg",
+    "price": 605,
+    "priceCurrency": "km",
+    "lat": 11.2097089,
+    "lng": 119.46225389999995
   },
  {
     "id": 561,
-    "name": "Pugo Adventure",
-    "imageUrl": "https://erraticlakwatsero.files.wordpress.com/2014/11/wpid-img_20141116_102408.jpg",
-    "price": 250,
-    "priceCurrency": "PHP",
-    "lat": 16.336675,
-    "lng": 120.478815
+    "name": "Chocolate Hills",
+    "imageUrl": "https://www.boholcocogrove.com/wp-content/uploads/2013/10/Bohol-tours-1038x576.jpg",
+    "price": 859,
+    "priceCurrency": "km",
+    "lat": 9.829708,
+    "lng": 124.13967560000003
   },
    {
     "id": 200,
-    "name": "Mangaoang Residence",
-    "imageUrl": "https://github.com/cristy-anne/spotslu3/blob/master/add.JPG?raw=true",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.613973,
-    "lng": 120.313972
+    "name": "Magellan's Cross",
+    "imageUrl": "http://philippineslifestyle.com/wp-content/uploads/Magellans-Cross.jpg",
+    "price": 801,
+    "priceCurrency": "km",
+    "lat": 10.2935675,
+    "lng": 123.9019485
   }
 ]
