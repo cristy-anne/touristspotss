@@ -109,11 +109,38 @@
   },
    {
     "id": 210,
+    "name": "Villa Escudero",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/46965_2.jpg",
+    "price": 366,
+    "priceCurrency": "km",
+    "lat": 13.9956743,
+    "lng": 121.34308699999997
+  },
+ {
+    "id": 566,
+    "name": "Siargao",
+    "imageUrl": "https://philihappy.com/wp-content/uploads/2017/02/bucas-grande-to-siargao-itinerary-696x364.jpg",
+    "price": 974,
+    "priceCurrency": "km",
+    "lat": 9.8481883,
+    "lng": 126.04584369999998
+  },
+   {
+    "id": 209,
     "name": "Magellan's Cross",
     "imageUrl": "http://philippineslifestyle.com/wp-content/uploads/Magellans-Cross.jpg",
-    "price": 523,
+    "price": 801,
     "priceCurrency": "km",
     "lat": 10.2935675,
     "lng": 123.9019485
+  },
+   {
+    "id": 212,
+    "name": "Coron, Palawan",
+    "imageUrl": "http://rjtours.ph/wp-content/uploads/2016/11/Coron-Palawan-1-1028x530.jpg",
+    "price": 519,
+    "priceCurrency": "km",
+    "lat": 12.0499255,
+    "lng": 120.17817479999997
   }
 ]
