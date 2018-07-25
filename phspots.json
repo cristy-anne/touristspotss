@@ -62,6 +62,15 @@
     "lat": 18.52857059999999,
     "lng": 120.71811019999996
   },
+   {
+    "id": 202,
+    "name": "Mayon Volcano",
+    "imageUrl": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/01/13/Pictures/_6658ef9c-f878-11e7-95e6-04e0a17510b6.jpg",
+    "price": 523,
+    "priceCurrency": "km",
+    "lat": 13.254832,
+    "lng": 123.68611239999996
+  },
   {
     "id": 210,
     "name": "The Ruins",
