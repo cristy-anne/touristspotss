@@ -3,8 +3,8 @@
     "id": 145,
     "name": "Racuh a Payaman",
     "imageUrl": "https://pobrenglayas.files.wordpress.com/2014/08/img_4419.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
+    "price": 458,
+    "priceCurrency": "km",
     "lat": 16.6325096,
     "lng": 120.3177918
   },
@@ -13,7 +13,7 @@
     "name": "Calle Crisologo",
     "imageUrl": "https://www.vigattintourism.com/assets/tourist_spots_photos/optimize/1345267444ik07fGX5.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "km",
     "lat": 17.5698929,
     "lng": 120.38832360000004
   },
@@ -22,7 +22,7 @@
     "name": "Las Casas Filipinas de Acuzar",
     "imageUrl": "https://i0.wp.com/www.projectlupad.com/wp-content/uploads/2018/02/La-Casas-Filipinas-de-Acuzar-Bataan-Aerial-View-Copyright-to-Project-LUPAD-12.jpg?fit=4000%2C2342&ssl=1",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "km",
     "lat": 14.6026318,
     "lng": 120.38526430000002
   },
@@ -31,7 +31,7 @@
     "name": "Mayon Volcano",
     "imageUrl": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/01/13/Pictures/_6658ef9c-f878-11e7-95e6-04e0a17510b6.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "km",
     "lat": 13.254832,
     "lng": 123.68611239999996
   },
@@ -40,7 +40,7 @@
     "name": "Banaue Rice Terraces",
     "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2012/06/banaue-terraces.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "km",
     "lat": 13.254832,
     "lng": 123.68611239999996
   },
@@ -49,7 +49,7 @@
     "name": "Luneta Park",
     "imageUrl": "https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F8B8017CF6C940E7BE742DD09BE3FEDA/rizal-park_d5eb7d95eaad426fb486fce5243c5642_F8B8017CF6C940E7BE742DD09BE3FEDA.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "km",
     "lat": 14.5824153,
     "lng": 120.97816769999997
   },
@@ -58,7 +58,7 @@
     "name": "Hundred Islands",
     "imageUrl": "http://pinoyadventurer.com/wp-content/uploads/2012/07/100islands-0076.jpg",
     "price": 200,
-    "priceCurrency": "PHP",
+    "priceCurrency": "km",
     "lat": 16.2040011,
     "lng": 120.04086870000003
   },
@@ -67,7 +67,7 @@
     "name": "Bangui Windmills",
     "imageUrl": "https://i.ytimg.com/vi/fZPzJCRwfnY/hqdefault.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "km",
     "lat": 18.52857059999999,
     "lng": 120.71811019999996
   },
@@ -76,7 +76,7 @@
     "name": "The Ruins",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/The_Ruins_in_Talisay%2C_Negros_Occidental.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "km",
     "lat": 10.7092769,
     "lng": 122.98256570000001
   },
@@ -85,7 +85,7 @@
     "name": "El Nido, Palawan",
     "imageUrl": "https://www.travelinboots.com/wp-content/uploads/2016/12/Discover-El-Nido-FB-Shared-Image.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "km",
     "lat": 11.2097089,
     "lng": 119.46225389999995
   },
@@ -94,7 +94,7 @@
     "name": "Chocolate Hills",
     "imageUrl": "https://www.boholcocogrove.com/wp-content/uploads/2013/10/Bohol-tours-1038x576.jpg",
     "price": 250,
-    "priceCurrency": "PHP",
+    "priceCurrency": "km",
     "lat": 9.829708,
     "lng": 124.13967560000003
   },
