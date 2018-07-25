@@ -126,21 +126,39 @@
     "lng": 126.04584369999998
   },
    {
-    "id": 209,
-    "name": "Magellan's Cross",
-    "imageUrl": "http://philippineslifestyle.com/wp-content/uploads/Magellans-Cross.jpg",
-    "price": 801,
+    "id": 509,
+    "name": "Mount Apo",
+    "imageUrl": "http://edgedavao.net/wp-content/uploads/2018/02/06mtapo1_web.jpg",
+    "price": 1197,
     "priceCurrency": "km",
-    "lat": 10.2935675,
-    "lng": 123.9019485
+    "lat": 6.987456099999999,
+    "lng": 125.27099640000006
+  },
+   {
+    "id": 912,
+    "name": "Maria Cristina Falls",
+    "imageUrl": "http://static.asiawebdirect.com/m/phuket/portals/philippines-hotels-ws/homepage/attractions/maria-cristina-falls/pagePropertiesImage/maria-cristina-falls.jpg",
+    "price": 1455,
+    "priceCurrency": "km",
+    "lat": 8.1831476,
+    "lng": 124.19494629999997
+  },
+   {
+    "id": 129,
+    "name": "Samal Island",
+    "imageUrl": "http://1.bp.blogspot.com/-w8f9M5SuzTs/UWJINwuucSI/AAAAAAAACY8/C9Y3S7csMnQ/s1600/pearl+farm+beach+resort.png",
+    "price": 1761,
+    "priceCurrency": "km",
+    "lat": 7.103312,
+    "lng": 125.7188463
   },
    {
     "id": 212,
-    "name": "Coron, Palawan",
-    "imageUrl": "http://rjtours.ph/wp-content/uploads/2016/11/Coron-Palawan-1-1028x530.jpg",
-    "price": 519,
+    "name": "Silop Cave",
+    "imageUrl": "https://www.mindanaotours.com/wp-content/uploads/silop-cave.jpg",
+    "price": 1376,
     "priceCurrency": "km",
-    "lat": 12.0499255,
-    "lng": 120.17817479999997
+    "lat": 9.752450699999999,
+    "lng": 125.50763240000003
   }
 ]
