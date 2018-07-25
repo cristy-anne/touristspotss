@@ -73,12 +73,12 @@
   },
   {
     "id": 210,
-    "name": "Immuki Island",
-    "imageUrl": "https://roamulofied.files.wordpress.com/2018/01/immuki14.jpg?w=960",
+    "name": "The Ruins",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/The_Ruins_in_Talisay%2C_Negros_Occidental.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.802881,
-    "lng": 120.325512
+    "lat": 10.7092769,
+    "lng": 122.98256570000001
   },
   {
      "id": 201,
@@ -91,21 +91,21 @@
   },
  {
     "id": 561,
-    "name": "Pugo Adventure",
-    "imageUrl": "https://erraticlakwatsero.files.wordpress.com/2014/11/wpid-img_20141116_102408.jpg",
+    "name": "Chocolate Hills",
+    "imageUrl": "https://www.boholcocogrove.com/wp-content/uploads/2013/10/Bohol-tours-1038x576.jpg",
     "price": 250,
     "priceCurrency": "PHP",
-    "lat": 16.336675,
-    "lng": 120.478815
+    "lat": 9.829708,
+    "lng": 124.13967560000003
   },
    {
     "id": 200,
-    "name": "Mangaoang Residence",
-    "imageUrl": "https://github.com/cristy-anne/spotslu3/blob/master/add.JPG?raw=true",
+    "name": "Magellan's Cross",
+    "imageUrl": "http://philippineslifestyle.com/wp-content/uploads/Magellans-Cross.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.613973,
-    "lng": 120.313972
+    "lat": 10.2935675,
+    "lng": 123.9019485
   }
 ]
 
